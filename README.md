@@ -1,4 +1,4 @@
-# Curso JAVA E JPA: CONSULTAS AVANÇADAS, PERFORMANCE E MODELOS COMPLEXOS
+# Curso JAVA e JPA: Consultas Avançadas, Performance e Modelos Complexos
 
 ### Temas abordados durante o curso:
 
